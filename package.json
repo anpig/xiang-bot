@@ -8,11 +8,6 @@
   },
   "author": "Anpig",
   "dependencies": {
-    "discord.io": "^2.5.3",
-    "discord.js": "^12.5.3",
-    "jquery": "^3.6.0",
-    "lowdb": "^1.0.0",
-    "mysql": "^2.18.1",
-    "winston": "^3.3.3"
+    "discord.js": "^12.5.3"
   }
 }
