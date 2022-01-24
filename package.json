@@ -8,6 +8,6 @@
   },
   "author": "Anpig",
   "dependencies": {
-    "discord.js": "^12.5.3"
+    "discord.js": "^13.6.0"
   }
 }
